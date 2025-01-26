@@ -314,8 +314,8 @@
     },
     {
         "name": "Mint",
-        "pros": ["Free to use", "34% sUNC [67% UNC]", "Keyless"],
-        "neutral": ["Level 3"],
+        "pros": ["Free to use", "34% sUNC [67% UNC]", "Keyless", "Level 6"],
+        "neutral": [""],
         "cons": ["Safety is not verified by voxlis.NET", "Not verified by voxlis.NET"],
         "link": "https://loot-link.com/s?471fa603",
         "buttonText": "FREE",
